@@ -1,5 +1,9 @@
 # COMP2156_45_Assignment1
 
+# Ritik Kamboj
+# I created 3 text file that contain information about my college and course
+
+
 # Himanshu
 # 101418143_gb contains information about george brown college
 # 101418143_sdlc contains information about t important of learning DevOps engineer in software development cycle.
