@@ -1,0 +1,12 @@
+
+
+
+"DevOps for System Administration" is a comprehensive course that equips system administrators with the skills and knowledge needed to integrate DevOps principles and practices into their work. Through a blend of theoretical concepts and hands-on exercises, participants learn about automation tools like Ansible and Terraform, infrastructure as code (IaC) practices, continuous integration and deployment (CI/CD) pipelines, monitoring and logging solutions, security integration, and effective collaboration techniques. By the end of the course, students are proficient in implementing DevOps workflows, enhancing efficiency, reliability, and scalability within their organizations while staying abreast of industry best practices and emerging technologies.
+
+Theoretical concepts blended with hands-on exercises.
+Automation tools: Ansible and Terraform.
+Infrastructure as Code (IaC) practices.
+Continuous Integration and Deployment (CI/CD) pipelines.
+Monitoring and logging solutions.
+Security integration.
+Effective collaboration techniques.

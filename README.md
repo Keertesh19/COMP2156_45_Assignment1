@@ -1,5 +1,7 @@
 # COMP2156_45_Assignment1
 
+# Dilraj Singh
+
 # Ritik Kamboj
 # I created 3 text file that contain information about my college and course
 
