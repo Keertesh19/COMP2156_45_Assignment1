@@ -1,4 +1,4 @@
- the key points highlighting the importance of learning DevOps engineering in the software development cycle:
+ The key points highlighting the importance of learning DevOps engineering in the software development cycle:
 
 Accelerated Delivery: DevOps streamlines processes, enabling faster delivery of features and updates.
 
