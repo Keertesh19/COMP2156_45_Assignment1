@@ -1,0 +1,19 @@
+COMP2156 - DevOps For System Administration:
+
+Course Description:
+COMP2156 - DevOps For System Administration is a comprehensive course aimed at equipping students with the procedures, protocols, and best practices essential for a DevOps engineer in a workplace environment. 
+Students will analyze and evaluate various developer operation implementations and gain hands-on experience using industry-standard toolkits.
+The course focuses on creating solutions to complex business problems while adhering to the core responsibilities of DevOps.
+Students will learn about data formats and types, including Extensible Markup Language (XML), JavaScript Object Notation (JSON), YAML Ain't Markup Language (YAML), and Yet Another Next Generation (YANG), and their significance in network automation.
+Additionally, they will delve into DevOps tools such as Ansible and Git.
+
+Course Outcomes:
+
+1. Effectively carry out the roles of a System or Network engineer with DevOps processes, utilizing industry-standard tools and techniques, strategies such as CI/CD, and software development lifecycle and containerization for deployment.
+2. Demonstrate the strategies and skills of using suitable DevOps tools, Cloud database technologies, and techniques for software/network applications.
+3. Enhance the software development lifecycle through cross-collaboration among IT staff by understanding and effectively automating application configurations and operations.
+4. Utilize Version Control System workflows to develop optimized, low-risk software releases and continuous code integration.
+5. Make well-informed analysis and architectural decisions between monolithic or microservice architecture for software products.
+6. Monitor code quality and CI/CD pipelines to improve and optimize DevOps processes continuously.
+7. Create effective strategies and utilize service platforms such as Infrastructure as Code and the benefits of cloud computing to deploy a software product.
+8. Identify the market and opportunities for a DevOps Engineer to effectively develop & integrate security practices into the software development cycle and CI/CD pipelines.
